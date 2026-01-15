@@ -13,8 +13,8 @@ Live demos and open-source code below.
 ### Interest-Bearing Lending Vault Shares
 Auto-accruing vault shares with Token-2022 — deposit collateral, balance grows via admin rewards.
 
-- Live demo: https://solana-interest-bearing-lending-vault.vercel.app
-- Repo: https://github.com/elmoxbt/solana-interest-bearing-lending-vault
+- Live demo: https:/interest-bearing-lending-vault.vercel.app
+- Repo: https://github.com/elmoxbt/interest-bearing-lending-vault
 
 ### Quadratic Voting DAO
 On-chain quadratic voting governance (cost = votes²) with Token-2022 weighted tokens.
