@@ -23,8 +23,9 @@ More on [baziaghan.com](https://baziaghan.com).
 
 ## Stack
 
-Next.js · React · TypeScript · Node.js · PostgreSQL · Prisma · Stripe · Tailwind · Vercel · Cloudflare
-Solana: Rust · Anchor · web3.js
+**Web:** Next.js · React · TypeScript · Node.js · PostgreSQL · Prisma · Stripe · Tailwind · Vercel · Cloudflare
+
+**Solana:** Rust · Anchor · web3.js
 
 ## Working together
 
