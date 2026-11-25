@@ -1,67 +1,36 @@
-# Hi, I'm Elmo
+# Bazi Aghan
 
-Solana developer building production-ready DeFi and governance primitives.
+**Full-stack developer** · West Africa (UTC+1) · Open to freelance projects
 
-Focused on yield optimization, fractional ownership, quadratic voting, and micropayment infrastructure (x402).
+I build fast, reliable web apps for businesses and creators: storefronts, dashboards, booking and payments, and the systems behind them. Four years in, and a civil engineer by training: I plan the structure before I build, and I hand everything over in your name.
 
-Live demos and open-source code below.
-
----
-
-## Featured Projects
-
-### Interest-Bearing Lending Vault Shares
-Auto-accruing vault shares with Token-2022 — deposit collateral, balance grows via admin rewards.
-
-- Live demo: https://interest-bearing-lending-vault.vercel.app
-- Repo: https://github.com/elmoxbt/interest-bearing-lending-vault
-
-### Quadratic Voting DAO
-On-chain quadratic voting governance (cost = votes²) with Token-2022 weighted tokens.
-
-- Live demo: https://quadratic-voting-dao.vercel.app
-- Repo: https://github.com/elmoxbt/quadratic-voting-dao
-
-### veToken Fractional Ownership
-Lock protocol tokens to mint decaying veTokens and claim proportional fees.
-
-- Live demo: https://fractional-ownership-token.vercel.app
-- Repo: https://github.com/elmoxbt/fractional-ownership-token
-
-### x402 DeFi Yield & Portfolio API
-Pay-per-call analytics: Yields (Kamino/Marginfi/Drift), portfolio TVL, risk scores.
-
-- Live demo: https://x402-defi-yield-api.vercel.app
-- Repo: https://github.com/elmoxbt/x402-defi-yield-api
-
-### x402 Oracle Paywall
-Micro-USDC payments for real-time oracle data access.
-
-- Demo script + Explorer flow
-- Repo: https://github.com/elmoxbt/x402-oracle-paywall
-
-More projects: https://github.com/elmoxbt?tab=repositories
+[**Portfolio**](https://baziaghan.com) · [**Book a call**](https://calendly.com/bazi-baziaghan/discovery-call) · [**Email**](mailto:bazi@baziaghan.com) · [**How I work**](https://baziaghan.com/process)
 
 ---
 
-## Tech Stack
+## Selected work
 
-![Solana](https://img.shields.io/badge/Solana-000000?logo=solana&logoColor=9945FF)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust)
-![Anchor](https://img.shields.io/badge/Anchor-000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react)
-![x402](https://img.shields.io/badge/x402-Micropayments-000000)
+| Project | What it does | Links |
+| --- | --- | --- |
+| **OpsDesk** | Bookings, dispatch, invoicing and payments in one place for service businesses | [Live](https://opsdesk-iota.vercel.app) · [Code](https://github.com/bazibaziaghan/opsdesk) |
+| **DealDesk** | One inbox for creators' brand deals, with scams flagged and replies drafted | [Live](https://dealdesk-navy.vercel.app) |
+| **Maison Élara** | Luxury real-estate site in 5 languages, with a page and brochure for every listing | [Live](https://maison-elara-estates.vercel.app) |
+| **Maison Veloce** | Hypercar showroom with upfront pricing and on-the-spot booking | [Live](https://maison-veloce.vercel.app) |
+| **Maya Lane Shop** | Creator storefront with Stripe checkout, downloads and an admin dashboard | [Live](https://maya-lane-shop.vercel.app) · [Code](https://github.com/bazibaziaghan/maya-lane-shop) |
+| **SolanaTxGuard** | Explains every Solana transaction in plain English before you sign | [Live](https://solanatxguard.vercel.app) · [Code](https://github.com/bazibaziaghan/SolanaTxGuard) |
 
-DeFi: Kamino • Marginfi • Drift • Pyth  
-Extensions: Token-2022 • Permanent Delegate • Interest-Bearing
+More on [baziaghan.com](https://baziaghan.com).
 
----
+## Stack
 
-## Open to Collaboration
+Next.js · React · TypeScript · Node.js · PostgreSQL · Prisma · Stripe · Tailwind · Vercel · Cloudflare
+Solana: Rust · Anchor · web3.js
 
-Building on Solana full-time. Interested in DeFi yield/governance, RWA primitives, and agent infrastructure.
+## Working together
 
-X: [@elmoxbt](https://x.com/elmoxbt)
+- A fixed quote within 48 hours of our call
+- A live preview link every week, plus a Friday update
+- You own the code and design once paid in full
+- 14 days of free fixes after launch
 
----
+→ [See exactly how we'll work](https://baziaghan.com/process)
